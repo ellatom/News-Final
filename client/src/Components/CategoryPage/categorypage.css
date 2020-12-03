@@ -1,0 +1,11 @@
+.categoryHeader
+{
+    text-align: center;
+    margin: 20px;
+}
+
+.ui.teal.label{
+    margin-top: 10px;
+    padding: 16px;
+    font-size: 14px;
+}

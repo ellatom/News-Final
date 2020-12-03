@@ -1,0 +1,32 @@
+.login-card {
+    min-height: 39vh;
+}
+
+.registerMessage {
+    margin-top: 0vh;
+}
+.form{
+    padding: 10px;
+    padding-top: 10px;
+}
+.card.col-12.col-lg-4.login-card.mt-2.hv-center{
+    padding: 20px;
+    margin:0 auto;
+    background-color: aliceblue;
+}
+
+i.password {
+    position: absolute;
+    bottom: 17%;
+    right: 10%;
+  }
+  svg:hover {
+    color: #00fcb6;
+    cursor: pointer;
+  }
+.cancel  {
+    margin-left: 28px;
+}
+.password.form-group.text-left{
+    position: relative;
+}
